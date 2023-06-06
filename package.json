@@ -1,0 +1,14 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "description": "Case tecnico com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Gustavo Vilela",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
+}
