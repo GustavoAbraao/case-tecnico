@@ -1,4 +1,5 @@
 # Plano de testes
 
 Link para acessar Plano de testes:
-https://docs.google.com/document/d/1vsXgFhyy9sz8s8Le92vepxyMkBLGNXvBR9j3YA5IFcw/view
+
+<a href="https://docs.google.com/document/d/1vsXgFhyy9sz8s8Le92vepxyMkBLGNXvBR9j3YA5IFcw/view" target="_blank"> Clique aqui </a>
