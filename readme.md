@@ -4,8 +4,8 @@ Link para acessar Plano de testes:
 
 <a href="https://docs.google.com/document/d/1vsXgFhyy9sz8s8Le92vepxyMkBLGNXvBR9j3YA5IFcw/view">Clique aqui</a>
 
-# Desafio_cadastro e2e
-Projeto end-to-end feito para cadastro no site Natura.
+# Case-tecnico e2e
+Projeto end-to-end feito para compra de produto no site e testes na tela de login.
 
 ## Pré-requisitos
 É necessário ter o Node.js e o npm instalados para executar este projeto.
